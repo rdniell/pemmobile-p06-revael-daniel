@@ -27,7 +27,7 @@
 [screenshot HP fisik di sini]
 
 ## Cara Menjalankan
-1. Clone repo  : git clone [[url-repo-kamu](https://snack.expo.dev/@niell77/shoplist-app)]
+1. Clone repo  : git clone [[klik disini](https://snack.expo.dev/@niell77/shoplist-app)]
 2. Install deps: npm install
 3. Jalankan    : npx expo start
 4. Scan QR Code dengan Expo Go di HP
